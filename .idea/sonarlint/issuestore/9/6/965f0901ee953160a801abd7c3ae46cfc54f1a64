@@ -1,0 +1,18 @@
+
+Y
+java:S4719B">Replace charset name argument with StandardCharsets.ISO_8859_1(ı÷ÊÌùÿÿÿÿ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(†€éˆ
+`
+java:S1192A"JDefine a constant instead of duplicating this literal "ISO8859-1" 3 times.(ñ¶ÆÃ
+v
+java:S1488'"[Immediately return this expression instead of assigning it to the temporary variable "map".(õÇŠ‘ÿÿÿÿÿ
+T
+java:S4719A">Replace charset name argument with StandardCharsets.ISO_8859_1(ñ¶ÆÃ
+T
+java:S4719A">Replace charset name argument with StandardCharsets.ISO_8859_1(ñ¶ÆÃ
+z
+java:S1488Z"_Immediately return this expression instead of assigning it to the temporary variable "strings".(èß¤Àøÿÿÿÿ
+T
+java:S4719B"9Replace charset name argument with StandardCharsets.UTF_8(ı÷ÊÌùÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÃÚ¡é
